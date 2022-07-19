@@ -3,10 +3,10 @@ Fintech Landing Page. YouPay is Fintech Business base in SA.
 
 # Tools Used
 1.Reactjs
-2.Styled component
-3.AOS Animate On Scroll Library
-4.React Icon
-5.React router dom
+1.Styled component
+1.AOS Animate On Scroll Library
+1.React Icon
+1.React router dom
 # Dependencies
  -"aos": "^2.3.4",
     -"react": "^18.0.0",
