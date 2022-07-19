@@ -15,6 +15,4 @@ YouPay is Fintech Business base in SA.
     - "react-icons": "^4.4.0",
     - "react-router-dom": "6",
     - "styled-components": "^5.3.5"
-```ts
-        display:block;
-```
+
