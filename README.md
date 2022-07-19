@@ -1,5 +1,6 @@
 # About
-Fintech Landing Page. YouPay is Fintech Business base in SA. 
+Fintech Landing Page for YouPay. 
+YouPay is Fintech Business base in SA. 
 
 # Tools Used
 - Reactjs
