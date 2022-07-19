@@ -1,4 +1,4 @@
 # About
 Fintech Landing Page.
 # youpay
-YouPay is Fintech Business base in SA. 
+Fintech Landing Page. YouPay is Fintech Business base in SA. 
